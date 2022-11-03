@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-week6",
+  "name": "assignment2-maksat",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -42,16 +42,16 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
-  "description": "A demo app for COMP229 Week 6",
+  "description": "assignment 2",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsiliopoulos/COMP229-F2020-Lesson6.git"
+    "url": "git+https://github.com/MaksatDushanov/test3-web-delvelopment.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Maksat Dushanov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsiliopoulos/COMP229-F2020-Lesson6/issues"
+    "url": "https://github.com/MaksatDushanov/test3-web-delvelopment/issues"
   },
-  "homepage": "https://github.com/tsiliopoulos/COMP229-F2020-Lesson6#readme"
+  "homepage": "https://github.com/MaksatDushanov/test3-web-delvelopment#readme"
 }

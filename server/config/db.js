@@ -1,6 +1,10 @@
+/*
+Name: Maksat Dushanov
+ID: 301258269
+Mail: mdushano@my.centennialcollege.ca
+Course: COMP229
+*/
 module.exports = {
-    //"URI": "mongodb://localhost/book_store"
-    // "URI": "mongodb+srv://thomas:Hq3DKYN2NaAqGyyV@mongodbserver.k15hk.azure.mongodb.net/book_store?retryWrites=true&w=majority",
-    "URI": "mongodb+srv://maksat:maksat@mongodbservern1.g30coqk.mongodb.net/book_store?retryWrites=true&w=majority",
+    "URI": "mongodb+srv://users:CJM0u7kE4I59a8T2@cluster0.1cfczmk.mongodb.net/?retryWrites=true&w=majority",
     "Secret": 'SomeSecret'
 }
